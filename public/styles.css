@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  color: yellow;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
